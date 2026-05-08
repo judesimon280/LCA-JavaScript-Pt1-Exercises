@@ -1,0 +1,13 @@
+
+const firstName = "Jude";
+
+const lastName = "Simon";
+
+let age = 16;
+
+const fullName = firstName + " " + lastName;
+
+// Print a greeting to the console using these variables
+console.log("Hello, my name is Jude Simon and I am twenty years old.");
+
+console.log("Next year, I will be twenty one years old.");
